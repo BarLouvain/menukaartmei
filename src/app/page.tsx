@@ -1,15 +1,13 @@
-export default function FullscreenPDF() {
+export default function Home() {
   return (
-    <iframe
-      src="/menukaart.pdf"
-      style={{
-        position: "fixed",
-        top: 0,
-        left: 0,
-        width: "100vw",
-        height: "100vh",
-        border: "none",
-      }}
-    />
+    <main style={{ padding: "2rem" }}>
+
+      <iframe
+        src="/menukaart.pdf"
+        width="100%"
+        height="800px"
+        style={{ border: "1px solid #ccc" }}
+      />
+    </main>
   );
 }
