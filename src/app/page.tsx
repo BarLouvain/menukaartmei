@@ -28,7 +28,7 @@ export default function Home() {
         </h1>
 
         <img
-          src="/foodkaartje.png"
+          src="./foodkaartje.png"
           alt="Menukaart"
           style={{
             width: "100%",
