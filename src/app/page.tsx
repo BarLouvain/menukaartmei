@@ -40,7 +40,7 @@ export default function Home() {
         />
 
         <a
-          href="/menukaart_juli_2025_louvain.pdf"
+          href="/cocktailkaart.pdf"
           target="_blank"
           rel="noopener noreferrer"
           style={{
