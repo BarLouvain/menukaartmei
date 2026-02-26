@@ -40,7 +40,7 @@ export default function Home() {
         />
 
         <a
-          href="/cocktailkaart.pdf"
+          href="/cocktailkaart.pdf" 
           target="_blank"
           rel="noopener noreferrer"
           style={{
