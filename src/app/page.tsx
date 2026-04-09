@@ -24,17 +24,16 @@ export default function Home() {
         }}
       >
         <h1 style={{ fontSize: "2rem", marginBottom: "1rem", color: "#333" }}>
-          Welkom bij Bar Louvain
+          Welkom bij Karément
         </h1>
 
         <img
-          src="./foodkaartje.png"
-          alt="Menukaart"
+          src="./karement-logo.png"
+          alt="Logo"
           style={{
             width: "100%",
             height: "auto",
             borderRadius: "0.5rem",
-            border: "1px solid #ddd",
             marginBottom: "1rem",
           }}
         />
