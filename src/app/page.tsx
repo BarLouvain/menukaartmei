@@ -39,7 +39,7 @@ export default function Home() {
         />
 
         <a
-          href="/menukaart_juli.pdf" 
+          href="/MenukaartBarLouvainAug.pdf" 
           target="_blank"
           rel="noopener noreferrer"
           style={{
